@@ -11,8 +11,8 @@ const defaultConfig = {
   SESSION_ID: "", // Put your session id here
   ALIVE_IMG: "https://github.com/dilshan62/DILSHAN-MD/blob/main/images/bot_connected.png?raw=true",
   ALIVE_MSG: "", // Change alive msg from here
-  BOT_OWNER: "94774915917", // Replace your bot owner number here with 94(country code)
-  ownerNumber: ["94774915917"], // Replace your bot owner number here (same as bot owner number)
+  BOT_OWNER: "94743376317", // Replace your bot owner number here with 94(country code)
+  ownerNumber: ["94743376317"], // Replace your bot owner number here (same as bot owner number)
   AUTO_STATUS_REACT: "true",
   AUTO_STATUS_REPLY: "true",
   AUTO_STATUS_SEEN: "true",
