@@ -2,7 +2,7 @@
   "name": "DILSHAN-MD",
   "version": "1.0.0",
   "description": "A Powerfull Whatsapp Bot",
-  "main": "index.js",
+  "main": "node index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name DILSHAN-MD",
     "stop": "pm2 stop DILSHAN-MD",
